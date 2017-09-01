@@ -1,2 +1,2 @@
-# repository
-Learning jQuery
+# jQuery
+Learning HTML,CSS,JavaScript/jQuery
